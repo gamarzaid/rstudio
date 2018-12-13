@@ -1,0 +1,40 @@
+genero,estatura,peso,promedio_sec,aciertos_ingreso,promedio_cch,reprobadas,area,carrera
+Femenino,1.59,65,9.8,103,9.4,0,Area 1,Arquitectura de Paisaje
+Masculino,1.73,55,7.5,96,6,15,Area 2,Ciencias Ambientales
+Femenino,1.6,80,9.7,94,9.17,0,Area 3,Administracion
+Femenino,1.61,52,9.4,97,8.52,0,Area 2,Ciencia Forense
+Masculino,1.79,81,8,93,8.04,1,Area 1,Arquitectura
+Masculino,1.83,64,7.4,97,7.72,5,Area 2,Biologia
+Femenino,1.52,63,9.3,101,9.1,1,Area 3,Ciencias de la Comunicacion
+Femenino,1.69,65,8.9,92,9.2,0,Area 2,Medicina
+Femenino,1.5,65,7.1,97,6.9,12,Area 4,Historia
+Masculino,1.8,64,8.5,97,8,1,Area 1,Arquitectura
+Femenino,1.61,72,9.7,94,9.39,0,Area 2,Medicina
+Femenino,1.55,52.2,8.8,92,8.5,2,Area 2,Medicina
+Femenino,1.65,54,8.5,96,8.09,1,Area 4,Ensenanza de Ingles
+Masculino,1.65,63,7.7,96,8.04,0,Area 2,Medicina
+Femenino,1.6,54,8,93,7.7,3,Area 2,Psicologia
+Femenino,1.6,80,9.8,104,9.1,0,Area 4,Artes Visuales
+Masculino,1.65,48,8.2,108,8.2,0,Area 2,Quimica Farmaceutico Biologica
+Masculino,1.68,61,7.3,110,8.72,0,Area 3,Relaciones Internacionales
+Femenino,1.62,65,9.6,107,8.4,3,Area 2,Medicina
+Femenino,1.7,75,9,93,8.82,0,Area 2,Medicina
+Femenino,1.65,69,8.5,98,6.75,18,Area 3,Derecho
+Femenino,1.58,58,9.8,106,9.43,0,Area 3,Derecho
+Femenino,1.56,52,9,92,7.65,1,Area 3,Relaciones Internacionales
+Masculino,1.75,67.5,9.7,93,9.26,0,Area 2,Medicina
+Masculino,1.8,65,9.2,92,8.8,0,Area 1,Arquitectura
+Femenino,1.58,56,7.6,92,7.14,4,Area 2,Enfermeria
+Femenino,1.72,67,8.5,97,7.5,2,Area 4,Pedagogia
+Femenino,1.58,58,8,100,7,7,Area 3,Ciencias Politicas y Administracion Publica
+Masculino,1.7,61,7.4,93,6.9,5,Area 2,Odontologia
+Femenino,1.56,50,9.8,96,8.8,0,Area 3,Administracion
+Masculino,1.75,82,9.3,101,6.57,6,Area 1,Contaduria
+Femenino,1.45,40,9.1,103,8.1,1,Area 2,Psicologia
+Femenino,1.7,85,8.5,93,8.82,0,Area 2,Cirujano Dentista
+Femenino,1.58,52,9.3,94,9,0,Area 3,Relaciones Internacionales
+Masculino,1.75,68,8,94,8.5,0,Area 2,Medicina Veterinaria y Zootecnia
+Masculino,1.68,72.4,9.3,93,7.7,0,Area 1,Arquitectura
+Masculino,1.75,65,9.5,94,7.86,0,Area 3,Ciencias de la Comunicacion
+Masculino,1.83,75,7.8,112,6.1,11,Area 1,Arquitectura
+Masculino,1.7,66,9.7,96,9.01,0,Area 3,Relaciones Internacionales
