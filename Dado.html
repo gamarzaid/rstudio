@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+</HEAD>
+ 
+<BODY>
+    <script>
+        var face0=new Image()
+        face0.src="dado1.png"
+        var face1=new Image()
+        face1.src="dado2.png"
+        var face2=new Image()
+        face2.src="dado3.png"
+        var face3=new Image()
+        face3.src="dado4.png"
+        var face4=new Image()
+        face4.src="dado5.png"
+        var face5=new Image()
+        face5.src="dado6.png"
+    </script>
+ 
+ 
+    <img src="" name="mydice">
+ 
+    <form>
+    <input type="button" value="Lanza dado" onClick="lanzar()">
+    </form>
+ 
+    <script>
+    function lanzar()
+    {
+        var randomdice=Math.round(Math.random()*5);
+        document.images["mydice"].src=eval("face"+randomdice+".src");
+    }
+    </script>
+	
+	<iframe src="https://es.calcuworld.com/calculadoras-matematicas/calculadora-binomial/?iframe=1" width="100%" height="400"></iframe>
+ 
+</BODY>
+</HTML>
